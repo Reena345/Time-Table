@@ -1,0 +1,49 @@
+
+
+.top-head{
+    text-align: center;
+    font: 1em sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    background-color: beige;
+    
+}
+
+
+.head{
+
+    text-align: left;
+    background: #f6f6f6;
+    border-collapse:collapse ;
+    font-size: 30px
+}
+.head th {
+    
+    background-color: cadetblue;
+    color:white;
+    width: 330px;
+    padding: 20px;
+}
+.body-part {
+    background-color:burlywood;
+    color: white;
+
+}
+.body-part td{
+    padding: 15px;
+    font-size: 20px;
+}
+
+.body-part th{
+    background-color: brown;
+}
+
+.foot-head{
+    background-color: darkslategrey;
+}
+.foot-head td{
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+}
+
